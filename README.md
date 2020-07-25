@@ -17,8 +17,8 @@
 **📋 Funcionalidades:**  
 
   • Listagem de filmes    
-  • Adicionar filme aos favoritos 
-  • Remover filme dos favoritos 
+  • Adicionar filme aos favoritos  
+  • Remover filme dos favoritos  
   • Navegação entre as abas de Releases e Favorites
   
 **🖱️ Como executar:**    
