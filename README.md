@@ -12,7 +12,7 @@
   
 **💻 Tecnologias utilizadas:**  
   
-  🎯 Flutter
+  🔷 Flutter
     
 **📋 Funcionalidades:**  
 
